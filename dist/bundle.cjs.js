@@ -1,5 +1,7 @@
+'use strict'
+
 const func = () => {
   console.log('Arrow function')
 }
 
-export default func
+module.exports = func
