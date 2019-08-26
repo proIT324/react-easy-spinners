@@ -1,5 +1,5 @@
-const func = () => {
-  console.log('Arrow function')
-}
+import React from 'react'
 
-export default func
+const Spinner = props => <h1>Spinner</h1>
+
+export default Spinner
