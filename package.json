@@ -1,0 +1,25 @@
+{
+	"name": "react-awesome-spinners",
+	"version": "1.0.0",
+	"description": "CSS-only spinners for ReactJS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/proIT324/react-awesome-spinners.git"
+	},
+	"keywords": [
+		"react",
+		"css",
+		"spinner",
+		"spinners"
+	],
+	"author": "proIT324",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/proIT324/react-awesome-spinners/issues"
+	},
+	"homepage": "https://github.com/proIT324/react-awesome-spinners#readme"
+}
