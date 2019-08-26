@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './styles.css'
 
-export default Ring = props => (
+const Ring = props => (
   <>
     <style>${`${styles}`}</style>
     <div className="lds-ring">
@@ -12,3 +12,5 @@ export default Ring = props => (
     </div>
   </>
 )
+
+export default Ring

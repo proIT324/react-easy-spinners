@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './styles.css'
 
-export default Ellipsis = props => (
+const Ellipsis = props => (
   <>
     <style>${`${styles}`}</style>
     <div className="lds-ellipsis">
@@ -12,3 +12,5 @@ export default Ellipsis = props => (
     </div>
   </>
 )
+
+export default Ellipsis

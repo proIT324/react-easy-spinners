@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './styles.css'
 
-export default Ripple = props => (
+const Ripple = props => (
   <>
     <style>${`${styles}`}</style>
     <div className="lds-ripple">
@@ -10,3 +10,5 @@ export default Ripple = props => (
     </div>
   </>
 )
+
+export default Ripple

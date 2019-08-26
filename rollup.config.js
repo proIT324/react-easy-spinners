@@ -20,7 +20,7 @@ export default {
       format: 'esm'
     },
     {
-      name: 'ReactCssSpinners',
+      name: 'ReactEasySpinners',
       file: `${dist}/${bundle}.umd.js`,
       globals: {
         react: 'React'
