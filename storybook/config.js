@@ -1,5 +1,4 @@
 import { configure, addParameters } from '@storybook/react'
-import { withOptions } from '@storybook/addon-options'
 
 addParameters({
   options: {
